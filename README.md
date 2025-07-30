@@ -54,7 +54,7 @@ u2:87.6cm
 ## 🖥️ Related Projects
 
 This ESP32 module is designed to work with the Qt GUI Dashboard:
-👉 [qt-blind-spot-dashboard](https://github.com/yourusername/qt-blind-spot-dashboard)
+👉 [qt-blind-spot-dashboard](https://github.com/HossamMekkawy2040/qt-blind-spot-dashboard-/tree/main)
 
 ---
 
